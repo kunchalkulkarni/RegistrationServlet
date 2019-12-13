@@ -1,0 +1,9 @@
+body
+{
+	width: 100%;
+	border: none;
+	outline: 2px;
+	box-sizing: border-box;
+	padding: 10px 0px;
+	background:Teal;
+}
